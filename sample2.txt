@@ -1,1 +1,1 @@
-this sample2 file is added by developer 1
+this sample2 file is added and by developer 2
